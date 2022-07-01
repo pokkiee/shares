@@ -2,22 +2,13 @@
   "gameVersion": "1.1.323",
   "modStatus": {
     "BetterCrates": {
-      "bEnabled": true
+      "bEnabled": false
     },
     "Camo_Spec": {
       "bEnabled": true
     },
     "Coyotesmission": {
       "bEnabled": true
-    },
-    "HFB_Autocannons": {
-      "bEnabled": false
-    },
-    "HFB_Missiles": {
-      "bEnabled": false
-    },
-    "HFB_PPCs": {
-      "bEnabled": false
     },
     "Smooth_Laser": {
       "bEnabled": true
@@ -32,13 +23,13 @@
       "bEnabled": false
     },
     "PurchaseSalvage": {
-      "bEnabled": true
+      "bEnabled": false
     },
     "MaxTonnage": {
-      "bEnabled": true
+      "bEnabled": false
     },
     "PilotOverhaul": {
-      "bEnabled": true
+      "bEnabled": false
     },
     "ModOptions": {
       "bEnabled": true
@@ -47,7 +38,7 @@
       "bEnabled": true
     },
     "RestoreTraits": {
-      "bEnabled": true
+      "bEnabled": false
     },
     "SMMO_V3_06": {
       "bEnabled": true
@@ -55,19 +46,7 @@
     "TSMusicMod": {
       "bEnabled": true
     },
-    "TTRulez_ImmersiveHUD": {
-      "bEnabled": false
-    },
-    "TTRulez_Immersive_Compass": {
-      "bEnabled": false
-    },
-    "TTRulez_Immersive_HUD_PaperDoll": {
-      "bEnabled": false
-    },
     "UltraVisualAndWeatherV3": {
-      "bEnabled": true
-    },
-    "UpdatedHighEmployment": {
       "bEnabled": false
     },
     "2499290119": {
@@ -77,10 +56,10 @@
       "bEnabled": true
     },
     "2508754148": {
-      "bEnabled": true
+      "bEnabled": false
     },
     "2509859048": {
-      "bEnabled": true
+      "bEnabled": false
     },
     "2512405187": {
       "bEnabled": true
