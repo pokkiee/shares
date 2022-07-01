@@ -1,0 +1,125 @@
+{
+  "gameVersion": "1.1.323",
+  "modStatus": {
+    "BetterCrates": {
+      "bEnabled": true
+    },
+    "Camo_Spec": {
+      "bEnabled": true
+    },
+    "Coyotesmission": {
+      "bEnabled": true
+    },
+    "HFB_Autocannons": {
+      "bEnabled": false
+    },
+    "HFB_Missiles": {
+      "bEnabled": false
+    },
+    "HFB_PPCs": {
+      "bEnabled": false
+    },
+    "Smooth_Laser": {
+      "bEnabled": true
+    },
+    "Lore-based Mech Variants - YAML Edition": {
+      "bEnabled": true
+    },
+    "MissionRedux": {
+      "bEnabled": false
+    },
+    "2500792511": {
+      "bEnabled": false
+    },
+    "PurchaseSalvage": {
+      "bEnabled": true
+    },
+    "MaxTonnage": {
+      "bEnabled": true
+    },
+    "PilotOverhaul": {
+      "bEnabled": true
+    },
+    "ModOptions": {
+      "bEnabled": true
+    },
+    "MW5Compatibility": {
+      "bEnabled": true
+    },
+    "RestoreTraits": {
+      "bEnabled": true
+    },
+    "SMMO_V3_06": {
+      "bEnabled": true
+    },
+    "TSMusicMod": {
+      "bEnabled": true
+    },
+    "TTRulez_ImmersiveHUD": {
+      "bEnabled": false
+    },
+    "TTRulez_Immersive_Compass": {
+      "bEnabled": false
+    },
+    "TTRulez_Immersive_HUD_PaperDoll": {
+      "bEnabled": false
+    },
+    "UltraVisualAndWeatherV3": {
+      "bEnabled": true
+    },
+    "UpdatedHighEmployment": {
+      "bEnabled": false
+    },
+    "2499290119": {
+      "bEnabled": true
+    },
+    "2507466797": {
+      "bEnabled": true
+    },
+    "2508754148": {
+      "bEnabled": true
+    },
+    "2509859048": {
+      "bEnabled": true
+    },
+    "2512405187": {
+      "bEnabled": true
+    },
+    "2513326516": {
+      "bEnabled": true
+    },
+    "2526838426": {
+      "bEnabled": true
+    },
+    "2527636437": {
+      "bEnabled": true
+    },
+    "2529275759": {
+      "bEnabled": true
+    },
+    "2538758256": {
+      "bEnabled": true
+    },
+    "2541247241": {
+      "bEnabled": true
+    },
+    "2543639565": {
+      "bEnabled": true
+    },
+    "2549720490": {
+      "bEnabled": true
+    },
+    "2566631720": {
+      "bEnabled": true
+    },
+    "2607562264": {
+      "bEnabled": true
+    },
+    "2677921408": {
+      "bEnabled": true
+    },
+    "2808627355": {
+      "bEnabled": true
+    }
+  }
+}
