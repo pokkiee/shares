@@ -1,12 +1,6 @@
 {
   "gameVersion": "1.1.323",
   "modStatus": {
-    "BetterCrates": {
-      "bEnabled": false
-    },
-    "Camo_Spec": {
-      "bEnabled": true
-    },
     "Coyotesmission": {
       "bEnabled": true
     },
@@ -16,29 +10,11 @@
     "Lore-based Mech Variants - YAML Edition": {
       "bEnabled": true
     },
-    "MissionRedux": {
-      "bEnabled": false
-    },
-    "2500792511": {
-      "bEnabled": false
-    },
-    "PurchaseSalvage": {
-      "bEnabled": false
-    },
-    "MaxTonnage": {
-      "bEnabled": false
-    },
-    "PilotOverhaul": {
-      "bEnabled": false
-    },
     "ModOptions": {
       "bEnabled": true
     },
     "MW5Compatibility": {
       "bEnabled": true
-    },
-    "RestoreTraits": {
-      "bEnabled": false
     },
     "SMMO_V3_06": {
       "bEnabled": true
@@ -46,20 +22,11 @@
     "TSMusicMod": {
       "bEnabled": true
     },
-    "UltraVisualAndWeatherV3": {
-      "bEnabled": false
-    },
     "2499290119": {
       "bEnabled": true
     },
     "2507466797": {
       "bEnabled": true
-    },
-    "2508754148": {
-      "bEnabled": false
-    },
-    "2509859048": {
-      "bEnabled": false
     },
     "2512405187": {
       "bEnabled": true
